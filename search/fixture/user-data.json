@@ -1,0 +1,35 @@
+[
+  {
+    "model": "auth.User",
+    "pk": 3,
+    "fields": {
+      "username": "user3",
+      "password": "1234jkl",
+      "first_name": "jina",
+      "last_name": "lee",
+      "email": "user3@gmail.com"
+    }
+  },
+  {
+    "model": "auth.User",
+    "pk": 4,
+    "fields": {
+      "username": "user4",
+      "password": "1234jkl",
+      "first_name": "hyorin",
+      "last_name": "seo",
+      "email": "user4@gmail.com"
+    }
+  },
+  {
+    "model": "auth.User",
+    "pk": 5,
+    "fields": {
+      "username": "user5",
+      "password": "1234jkl",
+      "first_name": "ayoung",
+      "last_name": "jung",
+      "email": "user5@gmail.com"
+    }
+  }
+]
