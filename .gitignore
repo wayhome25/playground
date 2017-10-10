@@ -195,4 +195,6 @@ ENV/
 pyvenv.cfg
 pip-selfcheck.json
 
+.idea/
+
 # End of https://www.gitignore.io/api/django,python,pycharm,database,virtualenv
